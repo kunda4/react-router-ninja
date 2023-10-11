@@ -25,7 +25,7 @@ export const CarriesDetailsLoader = async({params}) =>{
     const {id} = params
     const res = await fetch("http://localhost:4000/careers/" +id)
     if(!res.ok){
-        throw error("you could not fetch");
+        throw Error("could not fetch Career Details");
     }
     return res.json()
 }
