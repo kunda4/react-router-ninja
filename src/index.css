@@ -130,3 +130,11 @@ form label span{
   color: #bbb;
 }
 
+/* career details */
+
+.career-details{
+  background: rgb(42, 42, 84);
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px 0;
+}
