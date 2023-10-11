@@ -1,0 +1,41 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "London, Uk"
+        },
+        {
+            "id": 2,
+            "title": "Junior React Developer",
+            "salary": 30000,
+            "location": "London, Uk"
+        },
+        {
+            "id": 3,
+            "title": "Senior React Native Developer",
+            "salary": 50000,
+            "location": "London, Uk"
+        },
+        {
+            "id": 4,
+            "title": "Junior React Native Developer",
+            "salary": 50000,
+            "location": "London, Uk"
+        },
+        {
+            "id": 5,
+            "title": "Full Stack React Developer",
+            "salary": 50000,
+            "location": "Rwanda, Kigali"
+        },
+        {
+            "id": 6,
+            "title": "Senior React Developer",
+            "salary": 50000,
+            "location": "Rwanda, Kigali"
+        }
+
+    ]
+}
